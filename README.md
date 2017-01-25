@@ -1,1 +1,1 @@
-## Sunshine Wear Extension 
+## Sunshine Wearable Extension
