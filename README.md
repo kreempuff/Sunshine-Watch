@@ -4,8 +4,6 @@
 
 ![Alt text](/sunshine-watch.png?raw=true "Square")
 
-
-
-![Alt text](/sunshine-watch-round.png?raw=true "Round")
+![Alt text](/sushine-watch-round.png?raw=true "Round")
 
 
